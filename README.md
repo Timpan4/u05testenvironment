@@ -1,3 +1,24 @@
+## MY COMMANDS FOR STARTING THIS PROJECT U05TESTENV
+
+### in WSL2(standing in my laravel-projects directory)
+>composer create-project laravel/laravel u05testenv
+>cd u05testenv
+>git init
+>git add .
+>git commit -m "initial commit"
+
+(in github, created new repo
+then i pushed using my ssh below)
+
+>git remote add origin git@github.com:hannesqvarnstrom/u05testenvironment.git
+>git branch -M main
+>git push -u origin main
+
+
+
+
+here comes the laravel readme
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
